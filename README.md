@@ -35,4 +35,5 @@ python daolibai.py
 
 ## Result
 The agent rapidly converges and masters stable pole balancing, reaching the maximum score of 500 steps. The saved model can be reused for independent testing and deployment.
+
 <img width="302" height="222" alt="image" src="https://github.com/user-attachments/assets/b71ba1e4-c102-4bdc-b7ce-36f5aa92309c" />
